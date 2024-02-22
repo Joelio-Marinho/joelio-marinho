@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/Joelio-Marinho">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joelio-marinho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelio-marinho&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joelio-marinho&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelio-marinho&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
