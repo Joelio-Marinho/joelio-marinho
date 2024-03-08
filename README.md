@@ -39,6 +39,6 @@
 
 <div align="center">
 
-   ![Snake animation](https://github.com/joelio-marinho/Joelio-Marinho/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Joelio-Marinho/joelio-marinho/blob/output/github-contribution-grid-snake.svg)
   
 </div>
